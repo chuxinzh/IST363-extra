@@ -1,0 +1,77 @@
+.box1, .box2 {
+  background-color: lightblue;
+  height: 150px;
+  width: 150px;
+  display: block;
+  color: #1875e7; }
+
+.box2 {
+  margin-top: 5px; }
+
+.box3 {
+  background-color: lightblue;
+  height: 150px;
+  width: 150px;
+  display: block;
+  background-color: #4691ec;
+  border: 2px solid #135eb9;
+  color: #e78a18;
+  margin-top: 5px; }
+
+.box4 {
+  background-color: lightblue;
+  height: 150px;
+  width: 150px;
+  display: block;
+  background-color: black; }
+  .box4 h3 {
+    color: red; }
+  .box4 h4 {
+    color: yellow; }
+
+.box5 {
+  background-color: gray;
+  height: 150px;
+  width: 150px;
+  margin-top: 5px; }
+
+.font-1 {
+  font-size: 1em; }
+
+.font-2 {
+  font-size: 2em; }
+
+.font-3 {
+  font-size: 3em; }
+
+.item-6 {
+  width: 12em; }
+
+.item-5 {
+  width: 10em; }
+
+.item-4 {
+  width: 8em; }
+
+.item-3 {
+  width: 6em; }
+
+.item-2 {
+  width: 4em; }
+
+.item-1 {
+  width: 2em; }
+
+.photo-a {
+  background: url("./a.jpg") no-repeat left content-box; }
+
+.photo-b {
+  background: url("./b.jpg") no-repeat left content-box; }
+
+.photo-c {
+  background: url("./c.jpg") no-repeat left content-box; }
+
+.photo-d {
+  background: url("./d.jpg") no-repeat left content-box; }
+
+/*# sourceMappingURL=style.css.map */
